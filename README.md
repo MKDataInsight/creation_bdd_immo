@@ -9,7 +9,8 @@ Objectifs :
 
 Compétences :
 
-    Concevoir un schéma relationnel normée 3NF
     Création de tables SQL, import CSV, gestion de contraintes
+    Requêtes SQL (agrégations, filtres, jointures)
+    Concevoir un schéma relationnel normée 3NF   
     Elaboration d'un dictionnaire de données
     Conformité RGPD
