@@ -12,6 +12,7 @@
 ![laplaceimmo](/assets/laplaceimmo.png)
 
 Data Analyst chez LaPlaceImmo, j'ai modifié la base de données permettant de collecter les transactions immobilières et foncières en France afin d'assainir sa structure.
+
 J'ai ensuite mis à profit cette nouvelle base pour analyser le marché et aider les différentes agences régionales à mieux accompagner leurs clients.
 
 ## Objectifs et compétences
